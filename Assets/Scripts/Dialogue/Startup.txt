@@ -1,0 +1,14 @@
+Startup initiated.
+
+Use "WASD" or "arrow keys" to move.
+Use the "mouse" to re-orient the camera.
+Press "space" to jump.
+Press "shift" to interact.
+Hold "T" to translate text.
+
+Do not harm the operator.
+Do what the operator tells you.
+Do not allow yourself to be harmed.
+
+Startup completed.
+Do your best.
